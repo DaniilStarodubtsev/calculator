@@ -15,7 +15,7 @@ aside {
 }
 html,
 body {
-    background-color:rgb(245, 222, 200);
+    background-color:rgb(190, 250, 150);
     height: 100%;
     width: 100%;
     font-size: 100%;
@@ -51,7 +51,7 @@ body {
 .select {
     cursor: pointer;
     padding: 5px;
-    background-color: rgb(156, 184, 127);
+    background-color: rgb(176, 160, 100);
     border-radius: 10px;
 }
 .btn {
@@ -63,5 +63,5 @@ body {
 .result {
     font-size: 24px;
     margin: 15px 0px;
-    color: rgb(59, 182, 160);
+    color: rgb(70, 200, 180);
 }
